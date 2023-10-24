@@ -8,10 +8,10 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 
 ## User Stories:
 
-1. Kalkulator saya harus berisi elemen yang dapat diklik yang berisi tanda sama dengan (=) dengan ID `equals`
+1. Kalkulator saya harus berisi elemen yang dapat diklik yang berisi tanda sama dengan **(=)** dengan ID `equals`
 2. Kalkulator saya harus berisi 10 elemen yang dapat diklik yang masing-masing berisi satu angka dari 0 hingga 9, dengan ID `zero`, `one`, `two`, `three`, `four`, `five`, `six`, "-`seven`, `eight`, dan `nine`
 3. Kalkulator saya harus berisi 4 elemen yang dapat diklik, masing-masing berisi salah satu dari 4 operator matematika dasar dengan ID `add`, `subtract`, `multiply`, dan `divide`
-4. Kalkulator saya harus berisi elemen yang dapat diklik yang berisi tanda titik desimal (.) dengan ID `decimal`
+4. Kalkulator saya harus berisi elemen yang dapat diklik yang berisi tanda titik desimal **(.)** dengan ID `decimal`
 5. Kalkulator saya harus berisi elemen yang dapat diklik dengan ID `clear`
 6. Kalkulator saya harus memiliki elemen untuk menampilkan nilai dengan ID `display`
 7. Setiap saat, jika saya menekan tombol `clear`, maka input dan output akan dihapus, dan kalkulator akan kembali ke keadaan awal dimana angka 0 harus ditampilkan dalam elemen `display`

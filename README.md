@@ -31,7 +31,7 @@ Perlu dicatat bahwa ada dua aliran utama dalam logika kalkulator: logika eksekus
 Logika Eksekusi Langsung: 11.5  
 Logika Rumus/Expression: 32.5
 
-Pada project ini saya menggunakan logika rumus dan mengamati urutan operasi, sedangkan eksekusi langsung tidak dilakukan. Kedua metode ini dapat diterima oleh freeCodeCamp, semua tergantung pada pilihan kamu, kalkulator kamu mungkin menghasilkan hasil yang berbeda dari kalkulator saya.
+Pada project ini saya menggunakan logika rumus dan mengamati urutan operasi, sedangkan eksekusi langsung tidak dilakukan. Kedua metode ini dapat diterima oleh freeCodeCamp, semua tergantung pada pilihan kamu.
 
 ## Coding dan Testing
 

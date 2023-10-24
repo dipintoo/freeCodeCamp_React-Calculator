@@ -25,7 +25,7 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 15. Kalkulator saya harus memiliki beberapa tempat desimal presisi saat melakukan pembulatan. Tidak ada standar yang pasti, tetapi kamu harus mampu menangani perhitungan seperti **2 / 7** dengan presisi setidaknya hingga 4 tempat desimal.
 
 **Catatan tentang Logika Kalkulator:**  
-Perlu dicatat bahwa ada dua aliran utama dalam logika kalkulator: logika eksekusi langsung dan logika rumus. Misalnya: 
+Perlu dicatat bahwa ada dua aliran utama dalam logika kalkulator yaitu logika eksekusi langsung dan logika rumus. Misalnya: 
 
 3 + 5 x 6 - 2 / 4 =  
 Logika Eksekusi Langsung: 11.5  

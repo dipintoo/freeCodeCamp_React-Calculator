@@ -20,7 +20,7 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 10. Saat memasukkan angka, kalkulator saya tidak memperbolehkan angka untuk dimulai dengan beberapa angka 0.
 11. Saat elemen desimal diklik, tanda titik **(.)** akan ditambahkan ke nilai yang saat ini ditampilkan; dua tanda titik **(.)** dalam satu angka tidak boleh diterima.
 12. Saya harus bisa melakukan operasi (+, -, *, /) pada angka yang berisi tanda desimal.
-13. Jika 2 atau lebih operator dimasukkan secara berurutan, operasi yang dilakukan haruslah operator terakhir yang dimasukkan, kecuali tanda negatif **(-)**. Misalnya, jika **5 + * 7 =** dimasukkan, hasilnya harus **35**; jika **5 * - 5 =** dimasukkan, hasilnya harus -25.
+13. Jika 2 atau lebih operator dimasukkan secara berurutan, operasi yang dilakukan haruslah operator terakhir yang dimasukkan, kecuali tanda negatif **(-)**. Misalnya, jika **5 + * 7 =** dimasukkan, hasilnya harus **35**; jika **5 * - 5 =** dimasukkan, hasilnya harus **-25**.
 14. Menekan operator segera setelah **(=)** akan memulai perhitungan baru yang beroperasi pada hasil evaluasi sebelumnya.
 15. Kalkulator saya harus memiliki beberapa tempat desimal presisi saat melakukan pembulatan. Tidak ada standar yang pasti, tetapi kamu harus mampu menangani perhitungan seperti **2 / 7** dengan presisi setidaknya hingga 4 tempat desimal.
 
